@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="26.2.15">
   <diagram name="第 1 页" id="2XP6djzPhTmaVLWgBgzd">
-    <mxGraphModel>
+    <mxGraphModel dx="824" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fwSEFoUc2bM18Y4WtDjk-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwSEFoUc2bM18Y4WtDjk-4" target="fwSEFoUc2bM18Y4WtDjk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwSEFoUc2bM18Y4WtDjk-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="195" y="300" width="170" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="fwSEFoUc2bM18Y4WtDjk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwSEFoUc2bM18Y4WtDjk-1" target="fwSEFoUc2bM18Y4WtDjk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwSEFoUc2bM18Y4WtDjk-1" value="UCI指令" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwSEFoUc2bM18Y4WtDjk-2" value="修改/etc/config中的配置文件" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwSEFoUc2bM18Y4WtDjk-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="460" y="300" width="170" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="fwSEFoUc2bM18Y4WtDjk-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fwSEFoUc2bM18Y4WtDjk-7" target="fwSEFoUc2bM18Y4WtDjk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fwSEFoUc2bM18Y4WtDjk-7" value="netifd读取配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="485" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwSEFoUc2bM18Y4WtDjk-8" value="修改脚本，使参数生效" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fwSEFoUc2bM18Y4WtDjk-10" value="wifi up" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="390" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
