@@ -590,10 +590,10 @@
             <mxPoint x="400" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBaIwqH9u7KzB3NyAWgl-28" value="pc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="855" width="30" height="10" as="geometry" />
+        <mxCell id="NBaIwqH9u7KzB3NyAWgl-28" value="pc_current" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="855" width="70" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="NBaIwqH9u7KzB3NyAWgl-29" value="pc_current" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NBaIwqH9u7KzB3NyAWgl-29" value="pc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320.5" y="752" width="79" height="10" as="geometry" />
         </mxCell>
         <mxCell id="NBaIwqH9u7KzB3NyAWgl-30" value="Translate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
