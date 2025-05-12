@@ -627,6 +627,9 @@
             <mxPoint x="1180" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NBaIwqH9u7KzB3NyAWgl-168" value="ram_store" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="985" width="60" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
