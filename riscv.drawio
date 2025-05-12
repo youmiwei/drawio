@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.3">
   <diagram name="第 1 页" id="odzhpiGNZsCS6kh2lJAy">
-    <mxGraphModel dx="599" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="291" dy="170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -578,6 +578,15 @@
             <mxPoint x="900" y="820" as="sourcePoint" />
             <mxPoint x="899.85" y="798.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NBaIwqH9u7KzB3NyAWgl-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NBaIwqH9u7KzB3NyAWgl-157" target="NBaIwqH9u7KzB3NyAWgl-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NBaIwqH9u7KzB3NyAWgl-157" value="STORE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="952" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBaIwqH9u7KzB3NyAWgl-159" value="ram_din" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="967" width="60" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
