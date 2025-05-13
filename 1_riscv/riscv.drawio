@@ -200,10 +200,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NBaIwqH9u7KzB3NyAWgl-55" value="opcode" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="604" y="753" width="60" height="10" as="geometry" />
+          <mxGeometry x="604" y="753" width="46" height="10" as="geometry" />
         </mxCell>
         <mxCell id="NBaIwqH9u7KzB3NyAWgl-56" value="funct" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="604" y="774" width="60" height="10" as="geometry" />
+          <mxGeometry x="604" y="774" width="36" height="10" as="geometry" />
         </mxCell>
         <mxCell id="NBaIwqH9u7KzB3NyAWgl-57" value="rd" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="605" y="794" width="60" height="10" as="geometry" />
