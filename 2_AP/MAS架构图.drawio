@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.1.1">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="978" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="326" dy="181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,9 +58,6 @@
         <mxCell id="IRpuZfnpYJztKrdek_so-20" value="Phy&lt;br&gt;&lt;div&gt;Agent&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="300" y="720" width="52.53" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IRpuZfnpYJztKrdek_so-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=2.06;dx=18.79;notch=0;arrowHead=10.94;rounded=0;flipH=1;flipV=1;direction=north;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="592" y="750" width="80" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="IRpuZfnpYJztKrdek_so-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=4;endSize=5.757615894039735;endWidth=5.291873163457743;fillColor=#f8cecc;strokeColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="399.59000000000003" y="760" as="sourcePoint" />
@@ -78,6 +75,12 @@
         </mxCell>
         <mxCell id="IRpuZfnpYJztKrdek_so-27" value="Phy&amp;nbsp; Task" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="298.26" y="669" width="53.74" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="IRpuZfnpYJztKrdek_so-28" value="Mac&amp;nbsp; Task" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="371.87" y="669" width="56.27" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="IRpuZfnpYJztKrdek_so-29" value="App&amp;nbsp; Task" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="445.65999999999997" y="669" width="61.21" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
