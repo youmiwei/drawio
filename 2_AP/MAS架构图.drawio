@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.6">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="226" dy="160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="552" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,7 +140,7 @@
           <mxGeometry x="210" y="210" width="30.02" height="14" as="geometry" />
         </mxCell>
         <mxCell id="UshCN3OT18-O5CNV3XJl-18" value="Access Point" style="html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;sketch=0;shape=mxgraph.sitemap.cloud;" vertex="1" parent="1">
-          <mxGeometry x="243.44" y="290" width="316.56" height="140" as="geometry" />
+          <mxGeometry x="243.44" y="290" width="396.56" height="140" as="geometry" />
         </mxCell>
         <mxCell id="UshCN3OT18-O5CNV3XJl-23" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.wifi;fillColor=#dae8fc;strokeColor=none;buttonText=;strokeColor2=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="375" width="20" height="20" as="geometry" />
@@ -215,6 +215,15 @@
         </mxCell>
         <mxCell id="UshCN3OT18-O5CNV3XJl-42" value="Arbit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="486.59" y="335.79" width="50" height="71.62" as="geometry" />
+        </mxCell>
+        <mxCell id="UshCN3OT18-O5CNV3XJl-45" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=4.516129032258064;endSize=2.5516129032258066;endWidth=3.7877211238293444;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="544.53" y="371.52" as="sourcePoint" />
+            <mxPoint x="570" y="371.52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UshCN3OT18-O5CNV3XJl-47" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.azure.startup_task;fillColor=#0078D7;" vertex="1" parent="1">
+          <mxGeometry x="578.78" y="349.5" width="42.44" height="44.21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
