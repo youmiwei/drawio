@@ -207,7 +207,7 @@
             <mxPoint x="510" y="451.48" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UshCN3OT18-O5CNV3XJl-42" value="Arbit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="UshCN3OT18-O5CNV3XJl-42" value="Arbit&lt;div&gt;Agent&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="516.5899999999999" y="415.79" width="50" height="71.62" as="geometry" />
         </mxCell>
         <mxCell id="UshCN3OT18-O5CNV3XJl-45" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=4.516129032258064;endSize=2.5516129032258066;endWidth=3.7877211238293444;" edge="1" parent="1">
