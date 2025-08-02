@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.2.0">
   <diagram name="第 1 页" id="fxpgeDOExwINhZjM0Ih0">
-    <mxGraphModel>
+    <mxGraphModel dx="345" dy="190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uIcFa34I3bBpMjSFiiiW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uIcFa34I3bBpMjSFiiiW-1" target="uIcFa34I3bBpMjSFiiiW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uIcFa34I3bBpMjSFiiiW-1" value="扫描100Hz ~ 71KHz&lt;div&gt;的频段&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uIcFa34I3bBpMjSFiiiW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uIcFa34I3bBpMjSFiiiW-2" target="uIcFa34I3bBpMjSFiiiW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uIcFa34I3bBpMjSFiiiW-2" value="计算接收信号的峰峰值" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uIcFa34I3bBpMjSFiiiW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uIcFa34I3bBpMjSFiiiW-4" target="uIcFa34I3bBpMjSFiiiW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uIcFa34I3bBpMjSFiiiW-4" value="对幅频响应曲线进行滑动平均滤波" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="560" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uIcFa34I3bBpMjSFiiiW-6" value="根据曲线趋势，&lt;div&gt;判断滤波器类型&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="680" width="130" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
