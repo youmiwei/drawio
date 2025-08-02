@@ -1,9 +1,105 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.2.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.7">
   <diagram name="第 1 页" id="OEPBsVr3ypO_MdgGfp47">
-    <mxGraphModel>
+    <mxGraphModel dx="1216" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OJe_ocfKn3PKKARjiKHv-1" target="OJe_ocfKn3PKKARjiKHv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-1" value="系统初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OJe_ocfKn3PKKARjiKHv-2" target="OJe_ocfKn3PKKARjiKHv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-2" value="串口屏人机交互" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OJe_ocfKn3PKKARjiKHv-4" target="OJe_ocfKn3PKKARjiKHv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-4" value="选择操作" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OJe_ocfKn3PKKARjiKHv-6" target="OJe_ocfKn3PKKARjiKHv-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-6" value="设置频率" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-8" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OJe_ocfKn3PKKARjiKHv-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="480" as="sourcePoint" />
+            <mxPoint x="600" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OJe_ocfKn3PKKARjiKHv-9" target="OJe_ocfKn3PKKARjiKHv-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-9" value="一键启动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OJe_ocfKn3PKKARjiKHv-10" target="OJe_ocfKn3PKKARjiKHv-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-10" value="设置“已知模型电路”输出电压" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-11" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OJe_ocfKn3PKKARjiKHv-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="480" as="sourcePoint" />
+            <mxPoint x="30" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-12" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OJe_ocfKn3PKKARjiKHv-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="480" as="sourcePoint" />
+            <mxPoint x="640" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OJe_ocfKn3PKKARjiKHv-13" target="OJe_ocfKn3PKKARjiKHv-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-13" value="学习未知电路" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OJe_ocfKn3PKKARjiKHv-14" target="OJe_ocfKn3PKKARjiKHv-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-14" value="根据传递函数计算探究装置输出电压" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-16" value="记录电压参数" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-18" value="记录频率参数" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OJe_ocfKn3PKKARjiKHv-20" target="OJe_ocfKn3PKKARjiKHv-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-20" value="将记录的参数发送给FPGA" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-22" value="装置启动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OJe_ocfKn3PKKARjiKHv-24" target="OJe_ocfKn3PKKARjiKHv-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-24" value="LMS自适应滤波&lt;div&gt;拟合滤波器抽头系数&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OJe_ocfKn3PKKARjiKHv-26" target="OJe_ocfKn3PKKARjiKHv-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-26" value="扫频判断滤波器类型" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJe_ocfKn3PKKARjiKHv-28" value="向FPGA发送滤波器抽头系数" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
