@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="d1mStwjIpeYtjG0oUh33-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4A7ebb;strokeWidth=2;dashed=1;verticalAlign=top;fontStyle=1;fontSize=14;fontColor=#4A7ebb;fontFamily=Times New Roman, 宋体;" value="&lt;span&gt;内层交替迭代循环&lt;/span&gt;" vertex="1">
+        <mxCell id="d1mStwjIpeYtjG0oUh33-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4A7ebb;strokeWidth=2;dashed=1;verticalAlign=top;fontStyle=1;fontSize=14;fontColor=#4A7ebb;fontFamily=Times New Roman, 宋体;" value="" vertex="1">
           <mxGeometry height="420" width="480" x="470" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="d1mStwjIpeYtjG0oUh33-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;arcSize=20;fontFamily=Times New Roman, 宋体;fontSize=13;" value="开始：&#xa;初始化网络预编码与功率矩阵 (v)" vertex="1">
+        <mxCell id="d1mStwjIpeYtjG0oUh33-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;arcSize=20;fontFamily=Times New Roman, 宋体;fontSize=13;" value="初始化网络预编码与功率矩阵 (v)" vertex="1">
           <mxGeometry height="60" width="220" x="610" y="440" as="geometry" />
         </mxCell>
         <mxCell id="d1mStwjIpeYtjG0oUh33-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=Times New Roman, 宋体;fontSize=13;" value="步骤 1：更新接收端滤波器 (u)&#xa;(基于最小均方误差 MMSE 准则)" vertex="1">
@@ -48,6 +48,9 @@
               <mxPoint x="500" y="620" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="d1mStwjIpeYtjG0oUh33-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(95, 140, 193); font-family: &amp;quot;Times New Roman&amp;quot;, 宋体; font-size: 14px; font-weight: 700;&quot;&gt;内层交替迭代循环&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="570" y="550" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
