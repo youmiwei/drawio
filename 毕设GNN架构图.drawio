@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="4-0CEqBrwFg3ELD3BONs" name="第 1 页">
-    <mxGraphModel dx="877" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="550" background="#f4f1eb" math="0" shadow="0">
+    <mxGraphModel dx="1816" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="550" background="#f4f1eb" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,9 +119,6 @@
         <mxCell id="GRuEsuIkRjW-EYXedzYV-158" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6b8b9e;strokeWidth=1.5;align=center;verticalAlign=top;fontStyle=1;fontSize=13;fontColor=#2d4b60;spacingTop=10;" value="Power Allocation Output" vertex="1">
           <mxGeometry height="120" width="200" x="1890" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="GRuEsuIkRjW-EYXedzYV-159" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6aa86e;strokeColor=#437346;strokeWidth=1.5;" value="" vertex="1">
-          <mxGeometry height="90" width="40" x="2170" y="202.5" as="geometry" />
-        </mxCell>
         <mxCell id="GRuEsuIkRjW-EYXedzYV-160" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b8865a;strokeColor=#805938;strokeWidth=1.5;" value="&lt;span style=&quot;color: rgb(156, 181, 199); font-size: 13px; font-weight: 700;&quot;&gt;Softmax Normalization&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="160" x="1910" y="325" as="geometry" />
         </mxCell>
@@ -136,9 +133,6 @@
         </mxCell>
         <mxCell id="GRuEsuIkRjW-EYXedzYV-163" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6b8b9e;strokeWidth=1.5;align=center;verticalAlign=top;fontStyle=1;fontSize=13;fontColor=#2d4b60;spacingTop=10;" value="Clustering Status Output" vertex="1">
           <mxGeometry height="140" width="200" x="1890" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="GRuEsuIkRjW-EYXedzYV-164" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6aa86e;strokeColor=#437346;strokeWidth=1.5;" value="" vertex="1">
-          <mxGeometry height="90" width="40" x="2280" y="520" as="geometry" />
         </mxCell>
         <mxCell id="GRuEsuIkRjW-EYXedzYV-165" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b8865a;strokeColor=#805938;strokeWidth=1.5;" value="&lt;span style=&quot;color: rgb(156, 181, 199); font-size: 13px; font-weight: 700;&quot;&gt;Straight-Through Estimator&lt;/span&gt;" vertex="1">
           <mxGeometry height="45" width="160" x="1910" y="490" as="geometry" />
