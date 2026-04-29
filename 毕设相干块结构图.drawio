@@ -68,7 +68,7 @@
         <mxCell id="7RMFybqN_j3UjKDt5Jp3-212" parent="1" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=SimHei;" value="&lt;b style=&quot;font-size:18px; color:#2c3e50;&quot;&gt;直通估计器 (STE) 算子伪导数机制&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="400" x="220" y="780" as="geometry" />
         </mxCell>
-        <mxCell id="7RMFybqN_j3UjKDt5Jp3-213" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C3D6E8;strokeColor=#1E3F66;strokeWidth=2;fontFamily=SimHei;" value="&lt;b style=&quot;font-size:15px;&quot;&gt;推理软关联概率&lt;/b&gt;&lt;br&gt;&lt;br&gt;$$ p_{ij} \in (0, 1) $$" vertex="1">
+        <mxCell id="7RMFybqN_j3UjKDt5Jp3-213" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C3D6E8;strokeColor=#1E3F66;strokeWidth=2;fontFamily=SimHei;" value="&lt;b style=&quot;font-size:15px;&quot;&gt;推理软关联概率&lt;/b&gt;&lt;br&gt;$$ p_{ij} \in (0, 1) $$" vertex="1">
           <mxGeometry height="70" width="140" x="120" y="900" as="geometry" />
         </mxCell>
         <mxCell id="7RMFybqN_j3UjKDt5Jp3-214" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#F8D06B;strokeColor=#555;strokeWidth=2;fontFamily=SimHei;" value="&lt;b style=&quot;font-size:15px;&quot;&gt;离散二值化操作&lt;/b&gt;&lt;br&gt;&lt;br&gt;阈值判断 \(\tau\)" vertex="1">
