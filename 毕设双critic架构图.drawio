@@ -103,8 +103,8 @@
             <mxPoint x="1585" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VvFxfOFPtX81oyD854sk-226" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=15;fontFamily=Times New Roman, 宋体;fontColor=#d76d28;" value="&lt;b&gt;Residual Gradient Bypass Over GAT Layers&lt;/b&gt;" vertex="1">
-          <mxGeometry height="20" width="290" x="1305" y="640" as="geometry" />
+        <mxCell id="VvFxfOFPtX81oyD854sk-226" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=15;fontFamily=Times New Roman, 宋体;fontColor=#d76d28;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Residual&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="290" x="1305" y="645" as="geometry" />
         </mxCell>
         <mxCell id="VvFxfOFPtX81oyD854sk-227" edge="1" parent="1" style="endArrow=classic;html=1;strokeWidth=3.5;strokeColor=#333333;fontFamily=Times New Roman, 宋体;">
           <mxGeometry relative="1" as="geometry">
@@ -187,9 +187,6 @@
             <mxPoint x="1300" y="1355" as="sourcePoint" />
             <mxPoint x="1580" y="1330" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="VvFxfOFPtX81oyD854sk-248" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=15;fontFamily=Times New Roman, 宋体;fontColor=#d76d28;" value="&lt;b&gt;Residual Gradient Bypass Over GAT Layers&lt;/b&gt;" vertex="1">
-          <mxGeometry height="20" width="290" x="1295" y="1165" as="geometry" />
         </mxCell>
         <mxCell id="VvFxfOFPtX81oyD854sk-249" edge="1" parent="1" style="endArrow=classic;html=1;strokeWidth=3.5;strokeColor=#333333;fontFamily=Times New Roman, 宋体;">
           <mxGeometry relative="1" as="geometry">
@@ -283,6 +280,9 @@
             <mxPoint x="1490" y="835.0000000000001" as="sourcePoint" />
             <mxPoint x="1550" y="834.57" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VvFxfOFPtX81oyD854sk-284" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=15;fontFamily=Times New Roman, 宋体;fontColor=#d76d28;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Residual&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="20" width="290" x="1295" y="1165" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
