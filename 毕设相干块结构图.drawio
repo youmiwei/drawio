@@ -77,13 +77,13 @@
         <mxCell id="7RMFybqN_j3UjKDt5Jp3-215" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8BCAE;strokeColor=#8B2B20;strokeWidth=2;fontFamily=SimHei;" value="&lt;b style=&quot;font-size:15px;&quot;&gt;离散聚类动作&lt;/b&gt;&lt;br&gt;&lt;br&gt;$$ a_{ij} \in \{0, 1\} $$" vertex="1">
           <mxGeometry height="70" width="130" x="570" y="900" as="geometry" />
         </mxCell>
-        <mxCell id="7RMFybqN_j3UjKDt5Jp3-216" edge="1" parent="1" source="7RMFybqN_j3UjKDt5Jp3-213" style="endArrow=classic;html=1;strokeColor=#333;strokeWidth=2.5;entryX=0;entryY=0.5;exitX=1;exitY=0.5;fontFamily=SimHei;" target="7RMFybqN_j3UjKDt5Jp3-214" value="&lt;b style=&quot;color:#1E3F66;&quot;&gt;前向推导&lt;/b&gt;">
+        <mxCell id="7RMFybqN_j3UjKDt5Jp3-216" edge="1" parent="1" source="7RMFybqN_j3UjKDt5Jp3-213" style="endArrow=classic;html=1;strokeColor=#333;strokeWidth=2.5;entryX=0;entryY=0.5;exitX=1;exitY=0.5;fontFamily=SimHei;" target="7RMFybqN_j3UjKDt5Jp3-214" value="&lt;b style=&quot;color: rgb(30, 63, 102);&quot;&gt;前向推导&lt;/b&gt;">
           <mxGeometry height="50" relative="1" width="50" y="-15" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7RMFybqN_j3UjKDt5Jp3-217" edge="1" parent="1" source="7RMFybqN_j3UjKDt5Jp3-214" style="endArrow=classic;html=1;strokeColor=#333;strokeWidth=2.5;entryX=0;entryY=0.5;exitX=1;exitY=0.5;fontFamily=Times New Roman;" target="7RMFybqN_j3UjKDt5Jp3-215" value="&lt;span&gt;$$ \mathbb{I}(p_{ij} &amp;gt; \tau) $$&lt;/span&gt;">
-          <mxGeometry height="50" relative="1" width="50" y="-15" as="geometry">
+          <mxGeometry height="50" relative="1" width="50" x="-0.1111" y="-25" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
