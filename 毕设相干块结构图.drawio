@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="7aytByu8wplk2hUhkz5-">
-    <mxGraphModel dx="618" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="783" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="bjNhCIgI79qM0aQ02R95-6" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=2.5;strokeColor=#333333;rotation=-90;fontFamily=Times New Roman, 宋体;" value="" vertex="1">
           <mxGeometry height="700" width="20" x="740" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="bjNhCIgI79qM0aQ02R95-7" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontFamily=Times New Roman, 宋体;" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;相干间隔：&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt; $\tau_c$&lt;/span&gt;" vertex="1">
+        <mxCell id="bjNhCIgI79qM0aQ02R95-7" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontFamily=Times New Roman, 宋体;" value="&lt;span style=&quot;font-size: 22px; font-family: 宋体;&quot;&gt;&lt;b&gt;相干间隔：&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;i&gt;τ&lt;sub&gt;c&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="200" x="650" y="340" as="geometry" />
         </mxCell>
         <mxCell id="bjNhCIgI79qM0aQ02R95-8" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=2;strokeColor=#333333;fontFamily=Times New Roman, 宋体;">
@@ -31,8 +31,10 @@
             <mxPoint x="620" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bjNhCIgI79qM0aQ02R95-9" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontFamily=Times New Roman, 宋体;" value="&lt;span style=&quot;font-size: 22px; background-color: rgb(255, 255, 255); padding: 0px 5px;&quot;&gt;$\tau_p$&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="80" x="470" y="505" as="geometry" />
+        <mxCell id="bjNhCIgI79qM0aQ02R95-28" connectable="0" parent="bjNhCIgI79qM0aQ02R95-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 22px;&quot;&gt;τ&lt;sub&gt;p&lt;/sub&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.2109" y="-3" as="geometry">
+            <mxPoint x="-23" y="-3" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bjNhCIgI79qM0aQ02R95-10" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=2;strokeColor=#333333;fontFamily=Times New Roman, 宋体;">
           <mxGeometry relative="1" as="geometry">
@@ -40,8 +42,10 @@
             <mxPoint x="1100" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bjNhCIgI79qM0aQ02R95-11" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontFamily=Times New Roman, 宋体;" value="&lt;span style=&quot;font-size: 22px; background-color: rgb(255, 255, 255); padding: 0px 5px;&quot;&gt;$\tau_d = \tau_c - \tau_p$&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="800" y="505" as="geometry" />
+        <mxCell id="bjNhCIgI79qM0aQ02R95-30" connectable="0" parent="bjNhCIgI79qM0aQ02R95-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 22px;&quot;&gt;τ&lt;sub&gt;d&lt;/sub&gt;&amp;nbsp;= τ&lt;sub&gt;c&lt;/sub&gt;&amp;nbsp;- τ&lt;sub&gt;p&lt;/sub&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.175" y="-2" as="geometry">
+            <mxPoint x="-42" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bjNhCIgI79qM0aQ02R95-12" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeWidth=1.5;strokeColor=#999999;fontFamily=Times New Roman, 宋体;">
           <mxGeometry relative="1" as="geometry">
