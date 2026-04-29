@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="Xi3TYRkpK46U7FGFfy-Z" name="第 1 页">
-    <mxGraphModel dx="1271" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="650" background="#F5F5DC" math="0" shadow="0">
+    <mxGraphModel dx="1271" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="650" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,31 +158,6 @@
         </mxCell>
         <mxCell id="g_label" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontSize=15;fontStyle=3;fontFamily=Times New Roman, 宋体;fontColor=#2d578b;" value="g_mk" vertex="1">
           <mxGeometry height="30" width="50" x="640" y="270" as="geometry" />
-        </mxCell>
-        <mxCell id="legend_bg" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#cccccc;shadow=0;fontFamily=Times New Roman, 宋体;" value="" vertex="1">
-          <mxGeometry height="70" width="220" x="100" y="500" as="geometry" />
-        </mxCell>
-        <mxCell id="leg1_line" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeWidth=2;strokeColor=#333333;fontFamily=Times New Roman, 宋体;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="520" as="sourcePoint" />
-            <mxPoint x="160" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="leg1_text" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontSize=12;fontFamily=Times New Roman, 宋体;fontStyle=1;" value="光纤前传链路 (Fronthaul)" vertex="1">
-          <mxGeometry height="20" width="150" x="165" y="510" as="geometry" />
-        </mxCell>
-        <mxCell id="leg2_line" edge="1" parent="1" style="endArrow=classic;html=1;strokeWidth=2;strokeColor=#4A7ebb;curved=0;fontFamily=Times New Roman, 宋体;">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="125" y="540" />
-              <mxPoint x="145" y="560" />
-            </Array>
-            <mxPoint x="110" y="555" as="sourcePoint" />
-            <mxPoint x="160" y="545" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="leg2_text" parent="1" style="text;html=1;align=left;verticalAlign=middle;fontSize=12;fontFamily=Times New Roman, 宋体;fontStyle=1;" value="下行无线信道 (Wireless)" vertex="1">
-          <mxGeometry height="20" width="150" x="165" y="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
