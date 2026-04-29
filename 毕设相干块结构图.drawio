@@ -65,9 +65,6 @@
             <mxPoint x="750" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7RMFybqN_j3UjKDt5Jp3-211" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f4f1e1;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="350" width="700" x="70" y="760" as="geometry" />
-        </mxCell>
         <mxCell id="7RMFybqN_j3UjKDt5Jp3-212" parent="1" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=SimHei;" value="&lt;b style=&quot;font-size:18px; color:#2c3e50;&quot;&gt;直通估计器 (STE) 算子伪导数机制&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="400" x="220" y="780" as="geometry" />
         </mxCell>
@@ -85,7 +82,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7RMFybqN_j3UjKDt5Jp3-217" edge="1" parent="1" source="7RMFybqN_j3UjKDt5Jp3-214" style="endArrow=classic;html=1;strokeColor=#333;strokeWidth=2.5;entryX=0;entryY=0.5;exitX=1;exitY=0.5;fontFamily=Times New Roman;" target="7RMFybqN_j3UjKDt5Jp3-215" value="$$ \mathbb{I}(p_{ij} &gt; \tau) $$">
+        <mxCell id="7RMFybqN_j3UjKDt5Jp3-217" edge="1" parent="1" source="7RMFybqN_j3UjKDt5Jp3-214" style="endArrow=classic;html=1;strokeColor=#333;strokeWidth=2.5;entryX=0;entryY=0.5;exitX=1;exitY=0.5;fontFamily=Times New Roman;" target="7RMFybqN_j3UjKDt5Jp3-215" value="&lt;span&gt;$$ \mathbb{I}(p_{ij} &amp;gt; \tau) $$&lt;/span&gt;">
           <mxGeometry height="50" relative="1" width="50" y="-15" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
