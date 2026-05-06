@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="xbgEOd336FOAZXuPtrY9">
-    <mxGraphModel dx="2824" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1338" dy="-304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="VvFxfOFPtX81oyD854sk-498" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffdfa;strokeColor=#b8865a;strokeWidth=2.5;align=center;verticalAlign=top;fontStyle=1;spacingTop=20;dashed=1;dashPattern=8 4;fontFamily=Times New Roman, 宋体;" value="&lt;font color=&quot;#6a4220&quot; style=&quot;font-size: 30px;&quot;&gt;Twin Critic Network Architecture 2&lt;/font&gt;" vertex="1">
           <mxGeometry height="870" width="500" x="1325" y="2050" as="geometry" />
         </mxCell>
-        <mxCell id="VvFxfOFPtX81oyD854sk-499" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f2f7f3;strokeColor=#52753d;strokeWidth=3;align=center;verticalAlign=top;fontStyle=1;spacingTop=20;fontFamily=Times New Roman, 宋体;" value="&lt;font color=&quot;#1b3f1e&quot; style=&quot;font-size: 40px;&quot;&gt;State &amp;amp; Action Integration Block&lt;/font&gt;" vertex="1">
+        <mxCell id="VvFxfOFPtX81oyD854sk-499" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f2f7f3;strokeColor=#52753d;strokeWidth=3;align=center;verticalAlign=top;fontStyle=1;spacingTop=20;fontFamily=Times New Roman, 宋体;" value="&lt;font color=&quot;#1b3f1e&quot; style=&quot;font-size: 40px;&quot;&gt;状态与动作集成模块&lt;/font&gt;" vertex="1">
           <mxGeometry height="260" width="1040" x="785" y="1740" as="geometry" />
         </mxCell>
         <mxCell id="VvFxfOFPtX81oyD854sk-500" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7a9eb1;strokeColor=#43667a;strokeWidth=2;fontFamily=Times New Roman, 宋体;" value="" vertex="1">
