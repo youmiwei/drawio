@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VvFxfOFPtX81oyD854sk-497" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffdfa;strokeColor=#b8865a;strokeWidth=2.5;align=center;verticalAlign=top;fontStyle=1;spacingTop=20;dashed=1;dashPattern=8 4;fontFamily=Times New Roman, 宋体;" value="&lt;font color=&quot;#6a4220&quot; style=&quot;font-size: 30px;&quot;&gt;Twin Critic Network Architecture 1&lt;/font&gt;" vertex="1">
+        <mxCell id="VvFxfOFPtX81oyD854sk-497" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffdfa;strokeColor=#b8865a;strokeWidth=2.5;align=center;verticalAlign=top;fontStyle=1;spacingTop=20;dashed=1;dashPattern=8 4;fontFamily=Times New Roman, 宋体;" value="&lt;font color=&quot;#6a4220&quot; style=&quot;font-size: 30px;&quot;&gt;双Critic网络架构1&lt;/font&gt;" vertex="1">
           <mxGeometry height="870" width="500" x="785" y="2050" as="geometry" />
         </mxCell>
-        <mxCell id="VvFxfOFPtX81oyD854sk-498" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffdfa;strokeColor=#b8865a;strokeWidth=2.5;align=center;verticalAlign=top;fontStyle=1;spacingTop=20;dashed=1;dashPattern=8 4;fontFamily=Times New Roman, 宋体;" value="&lt;font color=&quot;#6a4220&quot; style=&quot;font-size: 30px;&quot;&gt;Twin Critic Network Architecture 2&lt;/font&gt;" vertex="1">
+        <mxCell id="VvFxfOFPtX81oyD854sk-498" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fffdfa;strokeColor=#b8865a;strokeWidth=2.5;align=center;verticalAlign=top;fontStyle=1;spacingTop=20;dashed=1;dashPattern=8 4;fontFamily=Times New Roman, 宋体;" value="&lt;span style=&quot;color: rgb(106, 66, 32); font-size: 30px;&quot;&gt;双Critic网络架构2&lt;/span&gt;" vertex="1">
           <mxGeometry height="870" width="500" x="1325" y="2050" as="geometry" />
         </mxCell>
         <mxCell id="VvFxfOFPtX81oyD854sk-499" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f2f7f3;strokeColor=#52753d;strokeWidth=3;align=center;verticalAlign=top;fontStyle=1;spacingTop=20;fontFamily=Times New Roman, 宋体;" value="&lt;font color=&quot;#1b3f1e&quot; style=&quot;font-size: 40px;&quot;&gt;状态与动作集成模块&lt;/font&gt;" vertex="1">
